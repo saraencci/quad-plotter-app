@@ -3,4 +3,11 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="parent_equation">PARENT EQUATION</string>
+    <string name="plot_graph">plot graph</string>
+    <string name="enter_the_value_of_the_parameters">enter the value of the parameters</string>
+    <string name="value_of_a">value of a</string>
+    <string name="value_of_c">value of c</string>
+    <string name="value_of_b">value of b</string>
+    <string name="value_of_d">value of d</string>
 </resources>
